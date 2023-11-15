@@ -9,5 +9,5 @@ Criar tabela no Amazon DynamoDB;
 Criar funções no AWS Lambda;
 Integrar o API Gateway com o Lambda backend;
 Utilizar a ferramenta No POSTMAN;
-CriaR um autorizador do Amazon Cognito para uma API REST no Amazon API Gateway.
+Criar um autorizador do Amazon Cognito para uma API REST no Amazon API Gateway.
 Dica: você pode dar um "fork" no repositório para organizar melhor as suas alterações e evoluções, mantendo uma referência direta ao código original.
